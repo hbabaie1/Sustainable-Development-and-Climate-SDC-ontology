@@ -1,6 +1,6 @@
 The SDC_v1.owl ontology extends the top-level 'Basic Formal Ontology' (BFO) and mid-level 'Common Core Ontologies' (CCO) and 'the Phenotype and Trait Ontology' (PATO).
-The CCO contains 11 ontologioes (in .ttl format). 
+The CCO contains 12 ontologioes (in .ttl format). 
 CCO imports BFO and RO in its 'imports' folder. 
-It also merges the 11 ontologies into the 'MergedAllCoreOntology-v1.3.ttl' file in its 'cco-merged' foldeer.
+It also merges the 12 ontologies into the 'MergedAllCoreOntology-v1.3.ttl' file in its 'cco-merged' foldeer.
 The SDC-V1 ontology only works if it is in the same folder that contains the CCO files and folders and the pato.ow file.
 Save the whole folder anywhere in your computer, and then open the SDC_v1 with the Protege ontology editor.
